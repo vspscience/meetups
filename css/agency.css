@@ -131,10 +131,7 @@ img::-moz-selection {
 header.masthead {
   color: white;
   text-align: center;
-  background-image: url("../img/header-bg.jpg");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: left center;
+  background: #150b58 url("../img/header-bg.jpg") no-repeat scroll left center;
   background-size: cover; }
   header.masthead .intro-text {
     padding-top: 150px;
